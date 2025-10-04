@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QdUFgdm+A58=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sempa\\source\\repos\\Lab_3\\Lab_3\\Lab_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sempa\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100-rc.1.24452.12\\microsoft.net.sdk.compilers.toolset.9.0.100-rc.1.24452.12.nupkg.sha512"
+  ],
+  "logs": []
+}
